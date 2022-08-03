@@ -6,7 +6,7 @@ In this module, I helped Kate in analyzing Bikesharing data for a potential busi
 
 ## Results
 
-- The below Tableau visualizations shows fow how long the bikes are checked out for all riders. We can see that the graph reaches its peak at around 5 minutes and the corresppnding number of bikes is around 146,000.
+- The below Tableau visualizations shows fow how long the bikes are checked out for all riders. We can see that the graph reaches its peak at around 5 minutes and the corresponding number of bikes is around 146,000.
 
 <img width="767" alt="Image1" src="https://user-images.githubusercontent.com/95254809/162741491-3cc58706-f5e1-4d6f-97e8-aadf9184611a.PNG">
 
